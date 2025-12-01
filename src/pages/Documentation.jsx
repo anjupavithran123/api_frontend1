@@ -70,10 +70,14 @@ This will be a production-level project that showcases frontend–backend commun
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">Screenshots</h2>
         <div className="grid md:grid-cols-2 gap-4">
-          <img src="/screenshots/login.png" alt="Login Page" className="rounded-lg shadow-lg" />
-          <img src="/screenshots/dashboard.png" alt="Dashboard" className="rounded-lg shadow-lg" />
-          <img src="/screenshots/api-test.png" alt="API Test Page" className="rounded-lg shadow-lg" />
-          <img src="/screenshots/reset-password.png" alt="Reset Password" className="rounded-lg shadow-lg" />
+          <img src="/screenshots/Screenshot 2025-12-01 113417.png" alt="Login Page" className="rounded-lg shadow-lg" />
+          <img src="/screenshots/Screenshot 2025-12-01 114755.png" alt="Dashboard" className="rounded-lg shadow-lg" />
+          <img src="/screenshots/Screenshot 2025-12-01 113625.png" alt="Dashboard" className="rounded-lg shadow-lg" />
+          <img src="/screenshots/Screenshot 2025-12-01 113541.png" alt="Dashboard" className="rounded-lg shadow-lg" />
+
+         
+          <img src="/screenshots/Screenshot 2025-12-01 113556.png" className="rounded-lg shadow-lg" />
+          <img src="/screenshots/Screenshot 2025-12-01 113439.png" alt="Reset Password" className="rounded-lg shadow-lg" />
         </div>
       </section>
 
