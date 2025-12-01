@@ -213,7 +213,7 @@ export default function ApiForm({
         className="absolute top-0 right-0 m-4 p-2 bg-gray-700 hover:bg-green-700 rounded text-white"
         title="Save Request"
       >
-        <FiSave size={20} />
+        <FiSave size={15} />
       </button>
 
       <h1 className="text-2xl font-bold text-center mb-4">API Request</h1>
