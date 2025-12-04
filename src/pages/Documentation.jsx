@@ -81,7 +81,7 @@ This will be a production-level project that showcases frontend–backend commun
         </div>
       </section>
 
-      {/* Demo Video */}
+      {/* Demo Video
       <section className="mb-8">
         <h2 className="text-2xl font-semibold mb-2">Demo Video</h2>
         <div className="aspect-video">
@@ -90,7 +90,7 @@ This will be a production-level project that showcases frontend–backend commun
             Your browser does not support the video tag.
           </video>
         </div>
-      </section>
+      </section> */}
 
     
 
