@@ -86,7 +86,7 @@ This will be a production-level project that showcases frontend–backend commun
         <h2 className="text-2xl font-semibold mb-2">Demo Video</h2>
         <div className="aspect-video">
           <video controls className="w-full rounded-lg shadow-lg">
-            <source src="/demo/demo.mp4" type="video/mp4" />
+            <source src="/video/api_testing_tool.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
         </div>
